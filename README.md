@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jensconsul
 - 👀 I’m working at the Consul Democracy Foundation.
-- 🌱 I’m currently learning how to contribute to our open source project called Consul Democracy.
+- 🌱 I'm a political scientist without technical background but trying to making my first contributions to our open source project :)
 
 
 <!---
